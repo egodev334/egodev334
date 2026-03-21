@@ -1,5 +1,5 @@
 <h1 align="center">Selam, EG4DEV</h1>
-<h3 align="center">Evrensel dilde bir stajyerim</h3>
+<h3 align="center">nothing else</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egodev334&label=Profile%20views&color=0e75b6&style=flat" alt="egodev334" /> </p>
 
