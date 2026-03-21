@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egodev334" alt="egodev334" /></a> </p>
 
-- 3D Biyoloji Labı [BiyoLAB](https://biodemo.netlify.app/)
-
 - Eğitim aldığım yerler **Udemy, HTB, netacad**
 
 - 👨‍💻 Portföy Sayfam [https://eg4dev.xyz/](https://eg4dev.xyz/)
