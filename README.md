@@ -7,11 +7,7 @@
 
 - 3D Biyoloji Labı [BiyoLAB](https://biodemo.netlify.app/)
 
-- Eğitim aldığım yerler **Udemy,HTB, netacad**
-
-- Bekleniyor... **N/A**
-
-- Bekleniyor... **N/A**
+- Eğitim aldığım yerler **Udemy, HTB, netacad**
 
 - 👨‍💻 Portföy Sayfam [https://eg4dev.xyz/](https://eg4dev.xyz/)
 
