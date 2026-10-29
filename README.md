@@ -11,7 +11,7 @@
 
 - 💬 Bu konularda tavsiye sunabilirim **Yenilikçi Sistemler, sistem zayıfları**
 
-- 📫 İletişim Maili **contact@eg4dev.xyz**
+- 📫 İletişim Maili **hello@eg4dev.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
